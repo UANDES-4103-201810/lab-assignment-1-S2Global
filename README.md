@@ -1,5 +1,6 @@
 # lab-assignment-1
 Base project for lab assignment 1
+Francisco Alvarez
 
 3) Heading Texts:
 Headings are tagged with "a href" which connects a url with text.
@@ -24,4 +25,4 @@ It is an object which allows requests to be made without reloading the web page.
 
 6) Information copied from Details tab.
 Issued by: COMODO RSA Domain Validation Secure Server CA
-Expire Date: ?Wednesday, ?August ?21, ?2019
+Expire Date: Wednesday, August 21, 2019
